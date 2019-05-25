@@ -1,1 +1,13 @@
 ok
+touch tên file: ta?o file
+git init: kho?i ta?o
+git config --global user.name 'abc'
+git add index.html
+git status
+git rm --cached index.html
+git status
+git add *.html
+git status
+git rm --cached index.html
+git add .
+git clone 
