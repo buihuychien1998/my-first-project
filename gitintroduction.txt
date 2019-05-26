@@ -11,3 +11,13 @@ git status
 git rm --cached index.html
 git add .
 git clone 
+git pull la dong bo hoa tu github xuong local
+git push la dong bo hoa tu local len github
+git status kiem tra trang thai
+git add * la them tat ca thay doi sau khi them dung git commit de xac nhan thay doi
+git commit -m"comment" la thay doi voi comment
+
+back up
+git log la xem nhat ky thay doi
+git revert + id la quay tro lai phan truoc
+  
