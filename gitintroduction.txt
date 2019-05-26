@@ -1,5 +1,5 @@
 ok
-touch tên file: ta?o file
+touch tÃªn file: ta?o file
 git init: kho?i ta?o
 git config --global user.name 'abc'
 git add index.html
@@ -21,3 +21,4 @@ back up
 git log la xem nhat ky thay doi
 git revert + id la quay tro lai phan truoc
   
+Ok
