@@ -21,4 +21,6 @@ back up
 git log la xem nhat ky thay doi
 git revert + id la quay tro lai phan truoc
   
-Ok
+git log --oneline -10: log 10 line
+git commit --amend: nối commit
+git push origin [branchname] -f: noi push
